@@ -1,2 +1,2 @@
-Amino acid properties pulled from wikipedia to use with pandas or as a csv.
-
+If you are looking for a simple amino acid properties table (pulled from wikipedia) to use with pandas/R (or as a [csv file] 
+(https://github.com/samsinai/Utility-scripts-for-data-analysis-and-visualization-/blob/master/Amino_acid_properties_wiki_data.csv)). The script for pulling the data is [here](https://github.com/samsinai/Utility-scripts-for-data-analysis-and-visualization-/blob/master/Read_amino_acid_table_from_wikipedia.ipynb).
