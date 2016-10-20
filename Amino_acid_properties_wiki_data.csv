@@ -1,0 +1,27 @@
+,Amino acid,Short,Abbrev.,Side chain,"Hydro-
+phobic",pKa,Polar,pH,Small,Tiny,"Aromatic
+or Aliphatic","van der Waals
+volume",Avg. mass (Da),pI,"pK1
+(α-COOH)","pK2
+(α-+NH3)"
+0,Cysteine,A,Ala,-CH3,X,-,-,-,X,X,-,67,89.09404,6.01,2.35,9.87
+1,Aspartic acid,C,Cys,-CH2SH,X,8.18,-,acidic,X,X,-,86,121.15404,5.05,1.92,10.70
+2,Glutamic acid,D,Asp,-CH2COOH,-,3.90,X,acidic,X,-,-,91,133.10384,2.85,1.99,9.90
+3,Phenylalanine,E,Glu,-CH2CH2COOH,-,4.07,X,acidic,-,-,-,109,147.13074,3.15,2.10,9.47
+4,Glycine,F,Phe,-CH2C6H5,X,-,-,-,-,-,Aromatic,135,165.19184,5.49,2.20,9.31
+5,Histidine,G,Gly,-H,X,-,-,-,X,X,-,48,75.06714,6.06,2.35,9.78
+6,Isoleucine,H,His,-CH2-C3H3N2,-,6.04,X,weak basic,-,-,Aromatic,118,155.15634,7.60,1.80,9.33
+7,Lysine,I,Ile,-CH(CH3)CH2CH3,X,-,-,-,-,-,Aliphatic,124,131.17464,6.05,2.32,9.76
+8,Leucine,K,Lys,-(CH2)4NH2,-,10.54,X,basic,-,-,-,135,146.18934,9.60,2.16,9.06
+9,Methionine,L,Leu,-CH2CH(CH3)2,X,-,-,-,-,-,Aliphatic,124,131.17464,6.01,2.33,9.74
+10,Asparagine,M,Met,-CH2CH2SCH3,X,-,-,-,-,-,-,124,149.20784,5.74,2.13,9.28
+11,Pyrrolysine,N,Asn,-CH2CONH2,-,-,X,-,X,-,-,96,132.11904,5.41,2.14,8.72
+12,Proline,O,Pyl,-(CH2)4NHCOC4H5NCH3,-,-,X,weak basic,-,-,-,,255.31,,,
+13,Glutamine,P,Pro,-CH2CH2CH2-,X,-,-,-,X,-,-,90,115.13194,6.30,1.95,10.64
+14,Arginine,Q,Gln,-CH2CH2CONH2,-,-,X,weak basic,-,-,-,114,146.14594,5.65,2.17,9.13
+15,Serine,R,Arg,-(CH2)3NH-C(NH)NH2,-,12.48,X,strongly basic,-,-,-,148,174.20274,10.76,1.82,8.99
+16,Threonine,S,Ser,-CH2OH,-,-,X,weak acidic,X,X,-,73,105.09344,5.68,2.19,9.21
+17,Selenocysteine,T,Thr,-CH(OH)CH3,-,-,X,weak acidic,X,-,-,93,119.12034,5.60,2.09,9.10
+18,Valine,U,Sec,-CH2SeH,-,5.73,-,acidic,X,X,-,,168.053,5.47,1.91,10
+19,Tryptophan,V,Val,-CH(CH3)2,X,-,-,-,X,-,Aliphatic,105,117.14784,6.00,2.39,9.74
+20,Tyrosine,W,Trp,-CH2C8H6N,-,-,X,weak basic,-,-,Aromatic,163,204.22844,5.89,2.46,9.41
